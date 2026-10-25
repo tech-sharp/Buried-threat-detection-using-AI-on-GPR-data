@@ -25,4 +25,4 @@ horizontal dimension, one patch is chosen 2 pixels away, in both directions from
 energy keypoint for threats. For non-threats, 33% of the data is randomly sampled from 3
 A-scans: the central A-scan, one A-scan 2 pixels to the right and to the left of the central A-scan.
 
-  6. The CNN network is same as that proposed in the research paper
+  6. The CNN network is same as that proposed in the research paper
